@@ -1,0 +1,8 @@
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/android/support/v7/appcompat/R.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/ApplicationStylesheet.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/AssetCryptImpl.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/Json_parsingActivity.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/Json_parsingAppInfo.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/Json_parsingApplication.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/com/jakir/json_parsing/R.java"
+"D:/Titanium_Resources/ti_workspace/Json_parsing/build/android/gen/ti/modules/titanium/ui/R.java"
